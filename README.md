@@ -4,14 +4,17 @@
 Desarrollar una solución que permita ingresar y almacenar las calificaciones finales de todos los alumnos de un salón de clase. Determinar y mostrar el promedio de las calificaciones finales en un resumen con los datos de los estudiantes
 
 ## ETAPA 2 ESPECIFICACIONES
-Entrada:
--Estudiantes: Nombre, Apellidos, Grupo, Carrera.
--Asignaturas: Calificaciones, nombre de la asignatura
-Proceso:
--Calcular promedio de las calificaciones finales
--promedio = semaDeCalificaciones / totalDeCalificaciones
-Salida:
--Resumen de los datos del estudiante con su promedio
+1.-Entrada:
+  -Estudiantes: Nombre, Apellidos, Grupo, Carrera.
+  -Asignaturas: Calificaciones, nombre de la asignatura
+
+2.-Proceso:
+  -Calcular promedio de las calificaciones finales
+  -promedio = semaDeCalificaciones / totalDeCalificaciones
+
+3.-Salida:
+  -Resumen de los datos del estudiante con su promedio
+
 ~~~
 +------------------------------------------------------+
 | Estudainte: Ana Valeria Tlapanco Sánchez             |
