@@ -12,10 +12,17 @@ Proceso:
 -promedio = semaDeCalificaciones / totalDeCalificaciones
 Salida:
 -Resumen de los datos del estudiante con su promedio
---------------------------------------------------------
--Estudainte: Ana Valeria Tlapanco Sánchez
--Grupo: 1A            Carrera:INGENIERÍA INFORMÁTICA
--
--Asignatura                         Calificacion 
--FUNDAMENTOS DE PROGRAMACIÓN            75
--MATEMATICAS DISCRETAS                  85
++------------------------------------------------------+
+| Estudainte: Ana Valeria Tlapanco Sánchez
+| Grupo: 1A            Carrera:INGENIERÍA INFORMÁTICA
+|
+| Asignatura                         Calificacion 
+| FUNDAMENTOS DE PROGRAMACIÓN            75
+| MATEMATICAS DISCRETAS                  85
+|
+| Promedio                                80
+
+
+
+## ETAPA 3. DISEÑO DE LA SOLUCION
+Diagrama de la clase
