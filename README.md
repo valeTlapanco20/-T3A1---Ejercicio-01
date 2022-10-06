@@ -26,3 +26,4 @@ Salida:
 
 ## ETAPA 3. DISEÑO DE LA SOLUCION
 Diagrama de la clase
+![]()
